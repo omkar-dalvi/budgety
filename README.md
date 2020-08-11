@@ -1,2 +1,2 @@
 # Budgety
-A minimalistic budget app which helps us to track our monthly budget 
+A minimalistic budget app which helps us track our monthly budget 
